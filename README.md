@@ -42,6 +42,7 @@
   |Name|Price|Link|Notes|
   |:---:|:---:|:---:|:---:|
   |Ryzen 7 5800x3D Processor|$359.00|[Link](https://www.amazon.com/AMD-5800X3D-16-Thread-Processor-Technology/dp/B09VCJ2SHD/)||
+  |G.Skill Trident Z RGB Series 32GB, DDR4 3200 CL14-14-14-34|$209.99|[Link](https://www.amazon.com/G-SKILL-TridentZ-288-Pin-Desktop-F4-3200C14D-32GTZR/dp/B071VRMFDQ)||
  
 
 ## Prices: $500+
