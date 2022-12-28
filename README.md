@@ -8,6 +8,7 @@
   |Siraya Tech Blu 3D Printer Resin|$49.95|[Link](https://www.amazon.com/dp/B07X84C2FW)|Any color or size, Clear, Blue, Black, 500g, 1000g|
   |SKR Mini E3 V3.0|$44.99|[Link](https://www.amazon.com/BIGTREETECH-Control-Integrated-TMC2209-Printer/dp/B07YW86YS7?th=1&psc=1)|Need 3|
   |CR Touch|$39.99|[Link](https://www.creality3dofficial.com/products/creality-cr-touch)||
+  |Monitor Pole Mount|$29.99|[Link](https://www.amazon.com/VIVO-Universal-Pneumatic-Monitor-MOUNT-POLE05A/dp/B0BLT4G3YD/)|
 
 ## Prices: $50-$100
   |Name|Price|Link|Notes|
