@@ -6,7 +6,7 @@
   |Creality Ender 3 Glass Bed Upgraded Build Surface Plate|$16.19|[Link](https://www.amazon.com/Creality-Ender-Glass-Upgraded-235x235x4mm/dp/B07RD6D2ZQ)||
   |Prusament PLA 1kg Rolls|$29.99|[Link](https://www.prusa3d.com/category/prusament-pla/)|**Can get multiple** <br> Galaxy Black, Army Green, Prusa Orange, Viva La Bronze, Mystic Brown, Lipstick Red, Pineapple Yellow|
   |Siraya Tech Blu 3D Printer Resin|$49.95|[Link](https://www.amazon.com/dp/B07X84C2FW)|Any color or size, Clear, Blue, Black, 500g, 1000g|
-  |SKR Mini E3 V3.0|$44.99|[Link](https://www.amazon.com/BIGTREETECH-Control-Integrated-TMC2209-Printer/dp/B07YW86YS7?th=1&psc=1)||
+  |SKR Mini E3 V3.0|$44.99|[Link](https://www.amazon.com/BIGTREETECH-Control-Integrated-TMC2209-Printer/dp/B07YW86YS7?th=1&psc=1)|Need 3|
   |CR Touch|$39.99|[Link](https://www.creality3dofficial.com/products/creality-cr-touch)||
 
 ## Prices: $50-$100
