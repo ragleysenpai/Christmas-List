@@ -1,4 +1,4 @@
-# Riley's Christmas List 2022
+# Riley's Christmas and Birthday List
 
 ## Prices: $0-$50
   |Name|Price|Link|Notes|
