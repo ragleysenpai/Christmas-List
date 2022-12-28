@@ -15,7 +15,7 @@
   |CraftBot Perforated Build Plate for the CraftBot XL 3D Printer|$99.95|[Link](https://www.bhphotovideo.com/c/product/1362166-REG/craftbot_pr_002_018_perforated_build_plate_for.html/?ap=y&ap=y&smp=y&smp=y&lsft=BI%3A514&gclid=Cj0KCQiAveebBhD_ARIsAFaAvrEGJlonVYfosjWVZ31Ed7By_NCy6-3HTF_MmMx6pGB-ZFP9xxpmM8UaAkOVEALw_wcB)| For **Craftbot XL**|
   |Ruby 3D Printer Nozzle 0.4mm|$90|[Link](https://www.prusa3d.com/product/the-olsson-ruby/)|
   |Micro Swiss All Metal Hotend Kit for 3D Printer|$63.50|[Link](https://www.amazon.com/dp/B0789V2D7C?tag=all3dp0c-20)|
-  |Micro Swiss Direct Drive Extruder|$99.75|[Link}(https://store.micro-swiss.com/collections/ender-3/products/micro-swiss-direct-drive-extruder)||
+  |Micro Swiss Direct Drive Extruder|$99.75|[Link](https://store.micro-swiss.com/collections/ender-3/products/micro-swiss-direct-drive-extruder)||
   |NylonX Carbon Fiber Nylon Printer Filament 0.5kg Rolls|$58|[Link](https://www.matterhackers.com/store/l/nylonx-carbon-fiber-nylon-filament-1.75mm/sk/MD5LDGS7)|**Can get Multiple**|
 
 ## Prices: $100-$200
