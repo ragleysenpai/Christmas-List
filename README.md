@@ -21,7 +21,8 @@
   |Name|Price|Link|Notes|
   |:---:|:---:|:---:|:---:|
   |Fjallraven Vidda Pro Ventilated Trousers M Short|$175|[Link](https://www.fjallraven.com/us/en-us/men/trousers/trekking-trousers/vidda-pro-ventilated-trs-m-short?c=570-050)|30Lx33W <br> Dark Olive or Black|
-
+  |Ender 3 Laser Engraver Attachment|$109|[Link](https://www.amazon.com/dp/B0BG7HLL3Z/ref=emc_b_5_mob_t?th=1&psc=1)||
+  |Ender 3 All Metal Direct Drive Extruder Kit|$109.99|[Link](https://www.amazon.com/Creality-3D-Sprite-Extruder-Pro/dp/B09SV4W3QZ?th=1&psc=1)||
 ## Prices: $200-500
   |Name|Price|Link|Notes|
   |:---:|:---:|:---:|:---:|
